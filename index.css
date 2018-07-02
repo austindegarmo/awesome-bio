@@ -5,10 +5,15 @@ body {
 }
 
 .jumbotron {
-
+	font:sans-serif;
+	color: green;
+	width: 75%;
+	height: 50%;
 
 }
 
 #centered-text {
+	text-align: center;
+	text
 
 }
